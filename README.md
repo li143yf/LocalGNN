@@ -38,11 +38,11 @@ torchmetrics       1.0.3
 
 ### Datasets
 <p align="justify">
- AmazonCoBuyComputer, CoauthorCS, CoauthorPhysics,  WikiCS, and Reddit dataset are from the dgl repository. Ogbn-arxiv is from https://ogb.stanford.edu/docs/nodeprop/#ogbn-arxiv.</p>
+ AmazonCoBuyComputer, CoauthorCS, CoauthorPhysics,  WikiCS, and Reddit datasets are from the dgl repository. Ogbn-arxiv is from https://ogb.stanford.edu/docs/nodeprop/#ogbn-arxiv.</p>
  
 ### Graph Partitioning Algorithms
 <p align="justify">
-METIS, LDG, and FENNEL are provided by us in `util/li_Partitioner.py`. NE, DBH, and HDRF are from the original paper.</p>
+METIS, LDG, and FENNEL are provided in `util/li_Partitioner.py`. NE, DBH, and HDRF are from the original paper.</p>
 
 ### Explanation of the Document
 
