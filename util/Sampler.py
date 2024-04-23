@@ -2,8 +2,6 @@ from dgl import DGLError, set_node_lazy_features, set_edge_lazy_features
 from dgl.dataloading import Sampler
 import os
 import pickle
-import torch
-import torch
 import dgl
 import numpy as np
 import torch
