@@ -1,7 +1,7 @@
 # LocalGNN
 ========
 
-A PyTorch implementation of "LocalGNN" .
+A PyTorch implementation of "Graph Partitioning for Lightweight GNNs: A Theoretical and Experimental Study", which has been submitted to Neural Networks.
 <p align="center">
   <img width="550" src="m1.jpg"> <img width="450" src="m2.jpg">
 </p>
@@ -16,6 +16,12 @@ A PyTorch implementation of "LocalGNN" .
   <img width="300" src="clacc.jpg"> 
 </p>
 
+
+### Experimental environment 
+All the experiments are conducted on a machine with NVIDIA GeForce RTX 3090GPU (24GB GPU memory). Intel Xeon Silver 4214R CPU(12 cores, 2.40GHz), and 256GB of RAM.
+
+
+
 ### Requirements
 The codebase is implemented in Python 3.8.12. package versions used for development are just below.
 ```
@@ -26,6 +32,8 @@ numpy              1.21.2
 pandas             2.0.3
 torchmetrics       1.0.3
 ```
+
+
 
 ### Datasets
 <p align="justify">
