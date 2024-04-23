@@ -48,8 +48,13 @@ METIS, LDG, and FENNEL are provided by us in `util/li_Partitioner.py`. NE, DBH, 
 
 util/Module.py includes GNN model.
 
-util/li_Partitioner.py includes node partitioning algorithms to divide the local graph
+util/li_Partitioner.py includes node partitioning algorithms to divide the local graph.
    
+util/Sampler.py is used nodes (or edges) to form local graphs.
+
+localgnn_node.py is used to train LocalGNN based on node partitioning.
+
+localgnn_edge.py is used to train LocalGNN based on edge partitioning and contrastive learning.
 
 ### Examples
 <p align="justify">
