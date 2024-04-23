@@ -1,7 +1,6 @@
 # LocalGNN
 ========
-
-A PyTorch implementation of "Graph Partitioning for Lightweight GNNs: A Theoretical and Experimental Study", which has been submitted to Neural Networks.
+The code corresponds to article "Graph Partitioning for Lightweight GNNs: A Theoretical and Experimental Study", submitted to Neural Networks.
 <p align="center">
   <img width="550" src="m1.jpg"> <img width="450" src="m2.jpg">
 </p>
