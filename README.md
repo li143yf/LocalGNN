@@ -42,9 +42,14 @@ torchmetrics       1.0.3
  
 ### Graph Partitioning Algorithms
 <p align="justify">
-METIS, LDG, and FENNEL are provided by us in `util/li_Partitioner.py`. NE, DBH, and HDRF are from the original paper.
+METIS, LDG, and FENNEL are provided by us in `util/li_Partitioner.py`. NE, DBH, and HDRF are from the original paper.</p>
 
+### Explanation of the Document
 
+util/Module.py includes GNN model.
+
+util/li_Partitioner.py includes node partitioning algorithms to divide the local graph
+   
 
 ### Examples
 <p align="justify">
